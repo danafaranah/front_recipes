@@ -1,0 +1,8 @@
+.bg{
+    background-image: url(./img/comida.jpg);
+}
+body{
+    background: #693e16a9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #935e2ca9, #203A43, #693d14a9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffba08, #804e20a9); 
+}
